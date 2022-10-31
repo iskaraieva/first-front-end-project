@@ -15,7 +15,7 @@ main {
 	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 	margin: 0 auto;
 }
-/*Header-Section1
+/*Header-Section0
 -----------------*/
 
 .header {
@@ -67,9 +67,9 @@ main {
 	margin-right: 0;
 }
 
-/*Section2
+/*Section1
 ------------*/
-.container2 {
+.section1 {
 	width: 100%;
 	max-width: 1000px;
 	margin: 0 auto;
@@ -97,10 +97,10 @@ main {
 	align-self: center;
 }
 
-/* Section3
+/* Section2
 ------------*/
 
-.container3 {
+.section2 {
 	position: relative;
 	width: 100%;
 	max-width: 1000px;
@@ -149,10 +149,10 @@ main {
 	transform: scale(1.05);
 }
 
-/* Section4 About us
+/* Section3 About us
 -------------*/
 
-.container4 {
+.section3 {
 	width: 100%;
 	max-width: 1000px;
 	margin: 15px auto 0 auto;
@@ -173,10 +173,10 @@ main {
 	margin-top: 45px;
 }
 
-/* Section5 Working for you
+/* Section4 Working for you
 -------------*/
 
-.container5 {
+.section4 {
 	background-color: rgba(169, 191, 228, 0.3);
 	width: 100%;
 	max-width: 1000px;
@@ -203,10 +203,10 @@ main {
 	color: #989EC3;
 }
 
-/* Section6 Catalog
+/* Section5 Catalog
 -------------*/
 
-.container6 {
+.section5 {
 	width: 100%;
 	max-width: 1000px;
 	height: 800px;
@@ -254,7 +254,7 @@ main {
 	color: #351F21;
 }
 
-/* Section7 Responses
+/* Section6 Responses
 ------------*/
 
 .response {
@@ -264,8 +264,6 @@ main {
 	margin: 0 auto;
 	height: 780px;
 	padding: 30px;
-	
-
 }
 
 .response_block {
